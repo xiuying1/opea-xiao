@@ -19,8 +19,12 @@ Single Node
 Kubernetes
 **********
 
-* Getting Started <k8s_getting_started.md>
-* Using Helm Charts <k8s_helm>
+.. toctree::
+   :maxdepth: 1
+
+   K8s Getting Started <k8s_getting_started>
+   TGI on Xeon with Helm Charts <k8s_helm>
+
 * Xeon & Gaudi with GMC
 * Xeon & Gaudi without GMC
 
