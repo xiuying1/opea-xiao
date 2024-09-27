@@ -19,9 +19,10 @@ Single Node
 Kubernetes
 **********
 
+* Getting Started <k8s_getting_started.md>
+* Using Helm Charts <k8s_helm>
 * Xeon & Gaudi with GMC
 * Xeon & Gaudi without GMC
-* Using Helm Charts
 
 Cloud Native
 ************
